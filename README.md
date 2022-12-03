@@ -1,2 +1,2 @@
-# JS-learn-Решаем задачи на CodeWars 
+# Решаем задачи на CodeWars 
 (https://www.codewars.com)
