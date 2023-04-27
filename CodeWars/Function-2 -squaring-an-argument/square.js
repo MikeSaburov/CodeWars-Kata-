@@ -1,3 +1,4 @@
-function otherAngle(a, b) {
-  return 180 - (a + b);
+// Write the "square"-function here
+function square(num) {
+  return Math.pow(num, 2);
 }
